@@ -1,4 +1,4 @@
-
+# To je moj program
 
 def hello(s):
     print("Hello", s)
